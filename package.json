@@ -1,10 +1,10 @@
 {
-  "private": true,
   "name": "img-promise",
-  "version": "0.0.1",
-  "description": "",
-  "license": "UNLICENSED",
-  "author": "",
+  "version": "1.0.0",
+  "description": "Load a image, return a promise",
+  "license": "MIT",
+  "author": "ofk <ofkjpn+npm@gmail.com> (https://github.com/ofk/)",
+  "repository": "ofk/img-promise",
   "main": "dist/img-promise.js",
   "files": [
     "dist",
